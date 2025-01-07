@@ -29,8 +29,19 @@ body {
 }
 
 .bigtext {
+    font-size: larger;
+    color: rgb(1, 35, 57);
+}
+
+.biggertext {
     font-size: x-large;
     color: rgb(1, 35, 57);
+}
+
+
+.medtext {
+    font-size: large;
+    color: black;
 }
 
 .smalltext {
